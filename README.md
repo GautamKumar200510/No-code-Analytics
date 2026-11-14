@@ -6,7 +6,7 @@ ML Flow is a modern, visual, beginner-friendly web application designed for stud
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 ### 1. Visual Drag-and-Drop Workflow Canvas
 - **React Flow (@xyflow/react) Powered:** Drag blocks from the sidebar palette onto an infinite canvas, connect node handles, configure parameters, and delete or rearrange nodes.
