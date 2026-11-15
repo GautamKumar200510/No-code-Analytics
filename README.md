@@ -135,7 +135,7 @@ ml-flow/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9+ with pip
